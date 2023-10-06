@@ -1,0 +1,11 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    background: #333 !important;
+    color: #fff;
+}
+.container{
+    margin-top: 70px;
+    background: #333;
+    color: #fff;
+}
